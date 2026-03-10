@@ -8,8 +8,8 @@ El programa o simulación que realizamos es sobre matrices y arreglos sobre cosa
 3. Dar click en el botón de ejecutar o ctrl+r
 
 •	Integrantes
-Edgar David Acosta Bernal
-Cristian Felipe Ortiz Cucunuba
+- Edgar David Acosta Bernal
+- Cristian Felipe Ortiz Cucunuba
 
 •	Lista de funciones implementadas
 - llenarMatrizA() {
