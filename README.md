@@ -1,5 +1,5 @@
 # MATRICES_Y_ARREGLOS
-•	Descripción del programa
+•	Descripción del programa:
 El programa o simulación que realizamos es sobre matrices y arreglos sobre cosas de algebra lineal como lo que son el tema de matriz, con este usamos más los arreglos bidimensionales y los unidimensionales y también con ayuda de ciclos para que este pueda realizar ejercicios de multiplicación y otras cosas.
 
 •	Instrucciones de ejecución
