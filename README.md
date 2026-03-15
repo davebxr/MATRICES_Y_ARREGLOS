@@ -4,8 +4,10 @@ El programa o simulación que realizamos es sobre matrices y arreglos sobre cosa
 
 •	Instrucciones de ejecución
 1. Tener instalado processing
-2. Después abrir la carpeta y abrir uno de los archivos que se encuentra hay en este caso el principal el cual es inicio_matrices_con_Arreglos
-3. Dar click en el botón de ejecutar o ctrl+r
+2. Descargar los archivos de este repositorio (Zip)
+3. Descomprimir el zip
+5. Después abrir la carpeta (inicio_Matrices_con_Arreglos) y abrir uno de los archivos que se encuentra hay en este caso el principal el cual es inicio_matrices_con_Arreglos
+6. Dar click en el botón de ejecutar o ctrl+r
 
 •	Integrantes
 - Edgar David Acosta Bernal
